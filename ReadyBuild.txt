@@ -1,0 +1,3 @@
+Name,Cpu,Gpu,Ram,Motherboard,Psu,Storage
+Custom,Core i9-13900K,RTX 4090,ROG Z790-E,Dominator,AX1600i
+Custom,Core 2 Quad Q9650,RTX 3050,GA-G41M-COMBO-GQ,Original,UNS350
